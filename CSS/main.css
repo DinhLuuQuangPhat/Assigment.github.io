@@ -331,12 +331,11 @@ body {
     margin: 0;
     padding-top: 20px;
     min-height: 320px;
-    margin: 0 138px;
     background: #ffffff;
 }
 
 .slider {
-
+    margin: 0 auto;
     display: block;
     top: 0;
     width: 1200px;
@@ -434,7 +433,7 @@ body {
     display: flex;
     width: 1200px;
     justify-content: center;
-    margin-top: 18%;
+    margin-top: 266px;
 }
 
 .navigation-auto div {
@@ -487,8 +486,8 @@ body {
 /*sale*/
 .banner__sale {
     display: flex;
-    width: 100%;
-    margin-top: 10px;
+    width: 1200px;
+    margin: 10px auto 0;
     min-height: 108px;
     justify-content: space-around;
 }
