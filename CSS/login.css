@@ -58,6 +58,7 @@
     justify-content: flex-end;
     align-items: center;
     display: flex;
+    background-image: url(../images/background_login.png)
 }
 form {
     display: block;
@@ -417,4 +418,26 @@ button{
     cursor: pointer;
     user-select: none;
     text-decoration: none;
+}
+@media only screen and (max-width: 46.1875em){
+    .login__header-background{
+        background-image: none;
+        justify-content: center;
+        width: 100%;
+    }
+    .footer__section:nth-child(1){
+        display: none;
+    }
+    .footer__section:nth-child(2){
+        display: none;
+    }
+    .footer__section:nth-child(3){
+        display: none;
+    }
+    .footer__section{
+        width: 30%;
+    }
+    .footer__section-bottom{
+        display: none;
+    }
 }
