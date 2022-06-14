@@ -676,7 +676,7 @@ body {
     line-height: 30px;
     text-transform: uppercase;
     display: inline-block;
-    background: url(/images/flashsale.png) 50% no-repeat;
+    background: url(../images/flashsale.png) 50% no-repeat;
     background-size: contain;
 }
 
@@ -957,7 +957,7 @@ body {
 
 .flash-sale-progress-bar {
     height: 16px;
-    background: url(/images/soluong.png) 0 100% no-repeat;
+    background: url(../images/soluong.png) 0 100% no-repeat;
     background-size: cover;
     position: relative;
     border-radius: 8px;
@@ -1212,7 +1212,7 @@ img {
     position: relative;
 }
 ._7zJYfY .t7oRm5 {
-    background-image: url(/images/yeuthich.png);
+    background-image: url(../images/yeuthich.png);
     width: 3.4375rem;
     height: 0.75rem;
 }
@@ -1440,7 +1440,7 @@ img {
 }
 
 .footer-vn-background {
-    background-image: url(/images/b8b421a5073979352a01b5dafb628d0e.png);
+    background-image: url(../images/b8b421a5073979352a01b5dafb628d0e.png);
 }
 
 .footer-vn-visa-png {
